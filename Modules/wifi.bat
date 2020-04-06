@@ -2,6 +2,15 @@
 mode 60,30
 setlocal enabledelayedexpansion
 
+
+::Please include credits to the original creator of this script.
+
+::
+:: (c) Elias Bachaalany <lallousz-x86@yahoo.com>
+:: Batchography: The Art of Batch Files Programming
+::
+
+
 :main 
     title WiFiPasswordReveal 
 
